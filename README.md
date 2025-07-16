@@ -6,3 +6,4 @@ Depois faremos isso com Fabric
 
 E ainda replicaremos com AzureDevOps!
 
+A aula está realmente incrivel 
